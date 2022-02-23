@@ -1,0 +1,433 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of the people called Quakers, relating to oathes and swearing presented to the serious consideration of the King and both Houses of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31172</idno>
+            <idno type="STC">Wing C1130</idno>
+            <idno type="STC">ESTC R18184</idno>
+            <idno type="EEBO-CITATION">12601433</idno>
+            <idno type="OCLC">ocm 12601433</idno>
+            <idno type="VID">64179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31172)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64179)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 347:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of the people called Quakers, relating to oathes and swearing presented to the serious consideration of the King and both Houses of Parliament.</title>
+               </titleStmt>
+               <extent>[3]-29 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Oaths --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64179:1" rendition="simple:additions"/>
+            <pb facs="tcp:64179:1"/>
+            <p>THE CASE Of the People called QUAKERS, Relating to Oathes and Swearing, Preſented To the Serious Conſideration OF THE KING And both <hi>Houſes</hi> of PARLIAMENT.</p>
+            <p>Printed in the Year, 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64179:2" rendition="simple:additions"/>
+            <pb n="5" facs="tcp:64179:2" rendition="simple:additions"/>
+            <head>THE CASE Of the People called QUAKERS, Relating to Oathes and Swearing.</head>
+            <p>'TIs not unknown that in this Nation, for Twenty or Thirty Years laſt paſt, under the va<g ref="char:EOLhyphen"/>rious Revolutions of Government we have been a ſuffering People; and al<g ref="char:EOLhyphen"/>though our peaceable behaviour un<g ref="char:EOLhyphen"/>der the Governors and Magiſtrates thereof has not been only evident to our Friends, but even our Enemies; yet the Covenants, Engagements,
+<pb n="6" facs="tcp:64179:3"/>Abjurations and Oaths which every Intereſt before you have thought good to provide and impoſe upon the Peo<g ref="char:EOLhyphen"/>ple, in hopes to eſtabliſh their own ſafety, has been of all other the greateſt Snare unto us, who ſince the Lord firſt raiſed us up in theſe Nations, could not Swear at all, and the Oaths Provided to Teſtifie Allegiance to the King, and deny all of the Popes Supremacy in Cauſes Civil and Eccleſiaſtical, the refuſal whereof incurrs a Premunire, has been executed upon ſuch whoſe hearts and hands could ſeal to the ſub<g ref="char:EOLhyphen"/>ſtance thereof, and whoſe practice hath teſtified their Allegiance to the King, and principles of denying the Pope, yet their Conſciences not allowing them to Swear at all (becauſe of the Command of Chriſt) for that only they have been the ſole Sufferers thereby, witneſs the many Hundreds of us that have been Premunired and ſuffered many Years, ſome ten Years and up<g ref="char:EOLhyphen"/>wards
+<pb n="7" facs="tcp:64179:3"/>impriſonment, beſides confiſca<g ref="char:EOLhyphen"/>tion of Goods, and forfeiture of Eſtates and Liberty; yea many Hundreds, have dyed in Priſon, when ſuch againſt whom this Oath was directed and in<g ref="char:EOLhyphen"/>tended, have not felt the leaſt Penalty thereof, as moſt Countries through<g ref="char:EOLhyphen"/>out this Nation can bear witneſs.</p>
+            <p>Now we being in the Sight of God and Men clear in our Principles and Practices, as well of all Conſpiracies againſt the King, as Adherents to the Pope and his Religion (which Root and Branch we abſolutely deny) and abominate; we cannot but preſs you to a weighty Conſideration of our State and Condition, that after ſo long ex<g ref="char:EOLhyphen"/>perience of our Innocency and tedious Suffering, we may be eaſed of this Snare and heavy Burthen, which has ſo long been our Lot and Portion.</p>
+            <p>And though it may to you, and many more (in theſe Dayes) ſeem ſtrange, that in this or any other Caſe
+<pb n="8" facs="tcp:64179:4"/>we cannot ſwear at all, though it has been to the apparent Ruine of many in their Eſtates and Liberties; yet in this have we had Peace with the Lord, it being what he requires at our Hands, and in good Conſcience to<g ref="char:EOLhyphen"/>wards God, and Obedience to the ex<g ref="char:EOLhyphen"/>preſs Commands of Chriſt, and Do<g ref="char:EOLhyphen"/>ctrine of the holy Apoſtles, and not in Contempt of the King or Govern<g ref="char:EOLhyphen"/>ment are we found in this Practice; God who is the Searcher of Hearts knows, that its with holy Reſpect to the Reputation of Chriſtianity, and the Evangelical Diſpenſation of Truth and Righteouſneſs, (which exceeds that of the Law, and the ſolemn Oaths thereof) and to Chriſt's expreſs Prohibition in that Caſe, which is, <hi>Swear not at all, neither by Heaven, or by Earth,</hi>
+               <note place="margin">Math. 5.33, 34.</note> 
+               <hi>&amp;c. NOR BY ANY OTHER OATH; but let your yea be yea, and your nay be nay, leſt you fall into Condemna<g ref="char:EOLhyphen"/>tion,
+<pb n="9" facs="tcp:64179:4"/>Jam.</hi> 5.12. So though it was al<g ref="char:EOLhyphen"/>lowed in the Law, chriſt and his Apoſtle forbid it in his Goſpel.</p>
+            <p>And that we are not the only Aſſerters of this Doctrine ſince the Dayes of Chriſt and the holy Apoſtles, we have of many more given ſome Inſtances and Teſtimonies of ſuch primitive Chriſtians, Martyrs and Fathers, who were of the ſame Mind and Judgment with us in this Caſe, and ſuffered in their Day by the <hi>Hea<g ref="char:EOLhyphen"/>thens,</hi> Popes, and Popiſh Cruelty for the ſame.</p>
+            <div n="1" type="example">
+               <head>Example <hi>1.</hi>
+               </head>
+               <p>
+                  <hi>Policarpus</hi> a Martyr for the <hi>Chriſtian</hi> Faith,<note place="margin">Ex Euſeb. Hiſt. Eccl. l. 4. c. 15.</note> who is ſaid to be a Diſciple of <hi>John</hi> the Evange<g ref="char:EOLhyphen"/>liſt, and an Overſeer or Biſhop in <hi>Smirna,</hi> being apprehended and brought before the <hi>Proconſul</hi> of <hi>Smirna,</hi> was demanded to Swear <hi>by the Empe<g ref="char:EOLhyphen"/>rors good Fortune,</hi> or <hi>Caeſar</hi>'s <hi>Proſperity</hi>
+                  <pb n="10" facs="tcp:64179:5"/>(which was then their national Oath) he abſolutely denyed, ſaying, <hi>He was a Chriſtian:</hi> But ſaid the <hi>Proconſul,</hi> take thine Oath and I will diſcharge thee;<note place="margin">Anno Chriſti 162.</note> defie Chriſt (who ſaid ſwear not) <hi>Po<g ref="char:EOLhyphen"/>licarpus</hi> anſwered, 86. <hi>Years have I been his Servant, yet in all this time he never hurt me:</hi> ſo denying to ſwear, which was then a Mark of Diſtinction; and alledging in lieu thereof that he was a <hi>Chriſtian,</hi> was committed to the Flames, <hi>Fox. Acts &amp; Mon. Vol.</hi> 1. <hi>Fol.</hi> 55.</p>
+            </div>
+            <div n="2" type="example">
+               <head>Example <hi>2.</hi>
+               </head>
+               <p>
+                  <hi>Pontius</hi> a Youth of 15. Years old, and <hi>Blandina</hi> a Woman, who both endured great Torments,<note place="margin">Euſeb L. 5. ca. 10.</note> and at laſt Death by the <hi>Heathens</hi> in <hi>France</hi> in the Reign of <hi>Antonius Verus</hi> about <hi>Anno</hi> 179. refuſed to Swear, being often urged.</p>
+            </div>
+            <div n="3" type="example">
+               <pb n="11" facs="tcp:64179:5"/>
+               <head>Example <hi>3.</hi>
+               </head>
+               <p>
+                  <hi>Baſilides</hi> a Souldier, and of Autho<g ref="char:EOLhyphen"/>rity in the Roman Hoſt,<note place="margin">Euſeb. Lib. cap. 5.</note> being required to give an Oath in a Matter concerning his Fellow-Souldiers, denyed to do it. plainly af<g ref="char:EOLhyphen"/>firming, <hi>He was a Chriſtian;</hi> for which he ſuffered Death about <hi>Anno Chriſti</hi> 205. <hi>Fox. Mon.</hi> 1 Vol. Fol. 71.</p>
+            </div>
+            <div n="4" type="example">
+               <head>Example <hi>4.</hi>
+               </head>
+               <p>In the <hi>Plow-Man's Complaint</hi> is this amongſt many others, viz. <q>Lord thou giveſt us a Commandment of Truth in bidding us ſay, yea, yea, nay nay; and Swear for nothing but Lord, he that calleth himſelf thy Vicar on Earth (viz. the Pope) hath broken thy Commandment; for he makes a Law to compel Men to Swear.</q>
+               </p>
+            </div>
+            <div n="5" type="example">
+               <pb n="12" facs="tcp:64179:6"/>
+               <head>Example <hi>5.</hi>
+               </head>
+               <p>
+                  <hi>John Wickliff,</hi> that eminent Oppoſer of the Popiſh Doctines and Traditions,<note place="margin">King Ric. 2. Anno 1384.</note> who was by the Pope and his Officiaries 41 Years af<g ref="char:EOLhyphen"/>ter his deceaſe pronounced a Heretick, and his Bones, and Books being 200. Volumns were burned, for aſſerting &amp; promulging heretical and damnable Doctrines againſt their then holy Church, &amp;c. as was alledged, was articled againſt, amongſt other Do<g ref="char:EOLhyphen"/>ctrines, for holding forth, <q>That all Oaths which be made for any Con<g ref="char:EOLhyphen"/>tract or civil Bargain betwixt man and man were unlawful, <bibl>
+                        <hi>Fox. Acts</hi> and <hi>Mon.</hi> 1 Vol. Fol. 587.</bibl>
+                  </q>
+               </p>
+               <p n="1">1 <hi>Obſ.</hi> Of whoſe Learning and good Life the Univerſity of <hi>Oxford, Anno</hi> 1406. give a publick Teſtimony a<g ref="char:EOLhyphen"/>mongſt other things aſſer<g ref="char:EOLhyphen"/>ting,<note place="margin">Ex 2 tom. ope<g ref="char:EOLhyphen"/>rum Jo. Huſſi. Fol. ult.</note> that all his Conditions and Doings throughou this
+<pb n="13" facs="tcp:64179:6"/>whole Life to have been moſt ſincere and commendable.</p>
+               <p n="2">2. <hi>Obſer. John Huſſe</hi> and <hi>Jerom</hi> of <hi>Prague</hi> were alſo publick Aſſertors of his Doctrine, and Vindicators of his Principles againſt the <hi>Papiſh,</hi> for which they were condemned by them as Hereticks.</p>
+            </div>
+            <div n="6" type="example">
+               <head>Example <hi>6.</hi>
+               </head>
+               <p>
+                  <hi>Will. Swinderly</hi> within the Dioceſs of <hi>Lincoln</hi> perſecuted by the <hi>Papiſh</hi> for holding Heretical Opinions;<note place="margin">K. <hi>Ric.</hi> 2. Anno. 1389.</note> the 14th. Article againſt him was, that he ſhould ſay, <q>That no Man ought to ſwear for any thing, but ſimply without an Oath to affirm or deny; and if he ſwear, he ſins, <bibl>
+                        <hi>Fox. Acts</hi> and <hi>Mon.</hi> 1 Vol. fol. 614.</bibl>
+                  </q>
+               </p>
+               <p>To which, or to the Subſtance there<g ref="char:EOLhyphen"/>of he declares his Mind and Opinion in his Appeal from the Biſhops Sen<g ref="char:EOLhyphen"/>tence to King <hi>R.</hi> 2. and his Counſel,
+<pb n="14" facs="tcp:64179:7"/>in theſe Words, <q>Whereas Chriſt's Law forbids Swearing, the Pope's Law juſtifieth Swearing, and com<g ref="char:EOLhyphen"/>pels Men thereto, <bibl>
+                        <hi>Fox. Mon.</hi> 1 Vol. fol. 613.</bibl>
+                  </q>
+               </p>
+            </div>
+            <div n="7" type="example">
+               <head>Example <hi>7.</hi>
+               </head>
+               <p>The general received Doctrine by the poor <hi>Chriſtians</hi> in this Nati<g ref="char:EOLhyphen"/>on,<note place="margin">K. Hewd. 4.</note> in which if they perſiſt<g ref="char:EOLhyphen"/>ed, they were condemned as Here<g ref="char:EOLhyphen"/>ticks, and if to avoid the Flames which Popiſh Cruelty then inflicted, they muſt openly declare and renounce and abjure this their Opinion amongſt o<g ref="char:EOLhyphen"/>thers, <q>That neither the Pope, nor the Prelate, neither any other Ordi<g ref="char:EOLhyphen"/>nary can compell any Man to ſwear by any Creature of God, or by the Bible-Book, <bibl>
+                        <hi>Fox Acts</hi> and <hi>Mon.</hi> 1 Vol. fol. 687.</bibl>
+                  </q>
+               </p>
+            </div>
+            <div n="8" type="example">
+               <head>Example <hi>8.</hi>
+               </head>
+               <p>
+                  <hi>William Thorp</hi>-being a Priſoner for
+<pb n="15" facs="tcp:64179:7"/>Oppoſing the Popiſh Do<g ref="char:EOLhyphen"/>ctrine,<note place="margin">King Henr. Ann. 1407,</note> was brought before <hi>Tho. Arundell,</hi> Arch Biſhop of <hi>Canterbury;</hi> and after his Charge of being an Heretical Perſon, as requir'd to kneel down, and lay his Hand upon a Book, and kiſs it, &amp;c. To which he anſwers, <q>If after your bidding, I ſhall lay my Hand upon the Book, to what Intent? to Swear thereby? the Arch Biſhop ſaid to him, <hi>Yea, where<g ref="char:EOLhyphen"/>fore elſe?</hi> Upon which <hi>Thorp</hi> reply'd, Sir, a Book is nothing elſe but a thing coupled together of divers Crea<g ref="char:EOLhyphen"/>tures; and to Swear by any Crea<g ref="char:EOLhyphen"/>ture, both God's Law and Man's is againſt it, <bibl>
+                        <hi>Fox, Act. &amp; Mon.</hi> 1 vol. fol. 689, 690.</bibl>
+                  </q>
+               </p>
+               <p>One Article againſt <hi>William Thorp,</hi> was, 'That the third Sunday after <hi>Eaſter,</hi> Anno 1407. in the Town of <hi>Shrewsbury,</hi> and through leave granted him to preach, he ſaid openly in St. <hi>Chads</hi> Church in his Sermon, <hi>viz.</hi>
+                  <pb n="16" facs="tcp:64179:8"/>
+                  <q>That it is not Lawful to Swear in a<g ref="char:EOLhyphen"/>ny Caſe, <bibl>fol. 692.</bibl>
+                  </q>
+               </p>
+               <p>And being again demanded to kneel down, and touch the Holy Goſpel-Book, and kiſs it, ſaying, <hi>so help me God, and this holy Doom</hi>—he argueth largely againſt it, concluding thus, <q>Therefore to Swear upon a Book, is to Swear by Creatures, and this Swear<g ref="char:EOLhyphen"/>ing ever unlefull, <bibl>fol. 701.</bibl>
+                  </q>
+               </p>
+               <p>Adding further, <q>This Sentence witneſſeth <hi>Cryſoſtom</hi> plainly, blaming them greatly that bring forth a Book to Swear upon; Charging Clarks, That in no wiſe they Conſtrain any Body to Swear, whether they think a Man to ſwear True or Falſe.</q>
+               </p>
+               <p>
+                  <q>And the Arch Biſhop menaced me with great Puniſhment and ſharp, ex<g ref="char:EOLhyphen"/>cept I left this Opinion of Swearing, <bibl>fol. 701.</bibl>
+                  </q>
+               </p>
+               <p>Again, the ſaid <hi>William Thorp</hi> be<g ref="char:EOLhyphen"/>ing demanded of the ſaid Popiſh Bi<g ref="char:EOLhyphen"/>ſhop, What he underſtood of that Saying of <hi>Chryſoſtom,</hi> That it is a Sin
+<pb n="17" facs="tcp:64179:8"/>to Swear well—he anſwers, <q>Full many Men and Women now ſay, That it is well done to Swear, by God, by our Lady, and other Saints, to have them in mind; but ſince all theſe Sayings are but Excuſes and Sin, me thinketh that his Senſe of <hi>Chryſoſtom</hi> may be alledged againſt all ſuch Swearers, <bibl>fol. 702.</bibl>
+                  </q>
+               </p>
+            </div>
+            <div n="9" type="example">
+               <head>Example <hi>9.</hi>
+               </head>
+               <p>
+                  <hi>Elizabeth Young,</hi> who was brought to Examination in the <hi>Ma<g ref="char:EOLhyphen"/>rian</hi> dayes,<note place="margin">Anno 1558.</note> before the <hi>Ca<g ref="char:EOLhyphen"/>tholick Inquiſitors of Heretical Pravity,</hi>
+                  <note place="margin">
+                     <hi>Fox</hi> Act. &amp; Mon, vol. 3. fol. 910.</note> as they then called themſelves; where to en<g ref="char:EOLhyphen"/>force her to Swear, this Language was uſed to her.</p>
+               <sp>
+                  <speaker>Dr. Martin,</speaker>
+                  <p>
+                     <hi>Thou ſhalt be racked Inch meal, thou Traytorly Whore and He<g ref="char:EOLhyphen"/>retick; But thou ſhalt Swear before a Judge before thou go.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Eliz. Young,</speaker>
+                  <p>Sir, I underſtand
+<pb n="18" facs="tcp:64179:9"/>not what an <hi>Oath</hi> is, and therefore I will take no ſuch thing upon me.</p>
+               </sp>
+               <sp>
+                  <speaker>Dr. Martin,</speaker>
+                  <p>
+                     <hi>She refuſeth to</hi> Swear <hi>upon the Four Evangeliſts be<g ref="char:EOLhyphen"/>fore a Judge;</hi>
+                     <note place="margin">Fol. 911.</note> 
+                     <hi>for I my ſelf, and Mr.</hi> Huſſey, <hi>have had her before us Four Times, but we cannot bring her to</hi> Swear.</p>
+               </sp>
+               <stage>Then ſaid the Biſhop,</stage>
+               <sp>
+                  <p>
+                     <hi>Why wilt thon not</hi> Swear <hi>before a Judge, &amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Eliz. Young,</speaker>
+                  <p>My Lord, I will not <hi>Swear</hi> that this Hand is mine.</p>
+               </sp>
+               <sp>
+                  <p>
+                     <hi>'No,</hi>
+                  </p>
+                  <stage>ſaid the Biſhop,</stage>
+                  <p>
+                     <hi>and why?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Eliz. Young,</speaker>
+                  <p>'Chriſt ſaith, <hi>That whatſoever is more then</hi> Yea yea, <hi>or</hi> Nay, nay, <hi>it còmeth of Evil.</hi>
+                  </p>
+               </sp>
+               <stage>Then <hi>Dr. Cook</hi> brought her a Book, commanding her,</stage>
+               <sp>
+                  <p>
+                     <hi>To lay her Hand there<g ref="char:EOLhyphen"/>on.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Eliz. Young,</speaker>
+                  <p>No my Lord, I will not <hi>Swear.</hi>
+                  </p>
+               </sp>
+               <p>And ſo ſhe perſiſted till God delivered her out of their Hands.</p>
+            </div>
+            <div n="10" type="example">
+               <pb n="19" facs="tcp:64179:9"/>
+               <head>Example <hi>10.</hi>
+               </head>
+               <p>The <hi>Waldenſes,</hi> whoſe Names are famous in the reformed Churches, and were the moſt antient and true <hi>Prote<g ref="char:EOLhyphen"/>ſtants,</hi> profeſſed it to be <hi>no way lawfull for a Chriſtian to ſwear.</hi>
+               </p>
+               <p>In defence of whom Biſhop <hi>Uſher,</hi> late Biſhop of <hi>Armagh,</hi> Primate of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> pleaded their Cauſe a<g ref="char:EOLhyphen"/>gainſt Swearing,<note place="margin">In his Book de Succeſ. cap. 6.</note> and againſt the <hi>Papiſts</hi> and <hi>Jeſuits,</hi> who were Swearers.</p>
+            </div>
+            <div n="11" type="example">
+               <head>Example <hi>11.</hi>
+               </head>
+               <p>The Chriſtian <hi>Proteſtants</hi> in the Valley of <hi>Piedmont,</hi> who were cruelty cortured to Death by the <hi>Papiſts,</hi> about Anno 1655.<note place="margin">
+                     <hi>Morland</hi> hiſtory. p. 217. and 218.</note> one Article alleadged againſt them, was, <q>That they believ'd it was not lawful to Swear any thing be it true of falſe.</q>
+               </p>
+            </div>
+            <div n="12" type="example">
+               <pb n="20" facs="tcp:64179:10"/>
+               <head>Example <hi>12.</hi>
+               </head>
+               <p>
+                  <hi>Eraſmus</hi> in his Paraphraſe on <hi>Mat.</hi> 5.34. doth in the name of Chriſt ut<g ref="char:EOLhyphen"/>terly condemn all manner of Oathes, ſaying <q>It is not lawfull to Swear by God; ye need none Oath, ye need no Excration or Curſing, two words be ſufficient, nay and yea: There is no man leſs bound with his ſimple and bear word, then the Jew by Swea<g ref="char:EOLhyphen"/>ring; he that Sweareth, either he thinketh ill of him to whom he Sweareth, or elſe he that requireth the Oath doth diſtruſt; but none of theſe ought to be in you whom I ut<g ref="char:EOLhyphen"/>terly forbid Swearing, &amp;c.</q> the like Paraph he hath on <hi>Jam.</hi> 5.12.</p>
+               <p>
+                  <q>
+                     <bibl>Plato,</bibl> 
+                     <hi>Let an Oath be abſent from eve<g ref="char:EOLhyphen"/>ry one; let none Swear himſelf, and let him not require an Oath of another.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>Meander,</hi>
+                     </bibl>
+                     <note place="margin">G, <hi>Biſh.</hi> Looking-Glaſs for the times.</note> Fly an Oath although thou mayſt Swear juſtly.</q>
+               </p>
+               <pb n="21" facs="tcp:64179:10"/>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>Antonius, Epiſt.</hi> 2.</bibl> 
+                     <hi>to Swear or ſpeak falſly is the ſame.</hi>
+                  </q>
+               </p>
+               <p>
+                  <hi>Heſiod, in his Theogonia</hi> placeth an Oath among the brood of Contention <q>An Oath greatly hurteth men, p. 88. when juſtice appears among men, then Swearing vaniſhes, <bibl>p. 13.</bibl>
+                  </q>
+               </p>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>Theognis,</hi>
+                     </bibl> There ought to be no ſuch thing as to Swear, neither ought he to Swear this or any thing, <bibl>
+                        <hi>ver.</hi> 660.</bibl>
+                  </q>
+               </p>
+            </div>
+            <div n="13" type="example">
+               <head>Example <hi>13.</hi>
+               </head>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>Auguſt,</hi> in <hi>Pſa.</hi> 88.</bibl> It is well that God hath ſorbidden man to Swear leſt by cuſtom of Swearing (in as much as we are apt to miſtake) we commit Perjury: There's none but God can ſafely Swear, becauſe there's no other but may be deceived.</q>
+               </p>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>Auguſt. de Mendacio,</hi>
+                     </bibl> I ſay unto you Swear not at all, left by Searing ye come to a Facility of Swearing; from a Facility to a cuſtome; and from a cuſtome ye fall into a Perjury.</q>
+               </p>
+               <pb n="22" facs="tcp:64179:11"/>
+               <p>There was a people in the Province of <hi>Albi</hi> in <hi>France,</hi> Anno, 1176. who were greatly envied by the <hi>Pope,</hi>
+                  <note place="margin">
+                     <hi>Ban. An.</hi> 1310. nu. 3.</note> 
+                  <hi>held that it was unlawful to Swear.</hi>
+               </p>
+            </div>
+            <div n="15" type="example">
+               <head>Example <hi>15,</hi>
+               </head>
+               <p>
+                  <hi>Michael Sadler</hi> (an aminent man, called a Lord) was cruelly tor<g ref="char:EOLhyphen"/>tured and put to Death by the <hi>Papiſts</hi> under the Emperor of <hi>Germany,</hi>
+                  <note place="margin">
+                     <hi>W. C. Albridy</hi> pag. 193, 194, and 195.</note> whoſe brethren were alſo Executed with the Sword, and his Wife and Siſters drowned, <hi>Anna</hi> 1527. One Article alleadged againſt him was, that he had ſaid, <q>That men ſhould not Swear to, or before the Magiſtrate.</q>
+               </p>
+            </div>
+            <div n="16" type="example">
+               <head>Example <hi>16.</hi>
+               </head>
+               <p>
+                  <hi>Jerom</hi> ſaith, <q>
+                     <hi>Evangelica veritas non recipit Juramentum;</hi> The Goſpel Truth admits not of an Oath.</q>
+               </p>
+            </div>
+            <div n="17" type="example">
+               <pb n="23" facs="tcp:64179:11"/>
+               <head>Example <hi>17.</hi>
+               </head>
+               <p>
+                  <hi>Chriſoſtom</hi> ſaith <q>Non oportet ut vir qui evangelice vivit juret omnino; It behoveth not that the man who lives accoding to the Goſpel ſhould Swear at all.</q>
+               </p>
+            </div>
+            <div n="18" type="example">
+               <head>Example <hi>18.</hi>
+               </head>
+               <p>
+                  <q>
+                     <bibl>
+                        <hi>Juſtin Martyr,</hi>
+                     </bibl> Chriſtians ought not to Swear at all.</q>
+               </p>
+            </div>
+            <div type="part">
+               <p>Charge againſt <hi>Walter Brute,</hi> that he Aſſerted,
+<q>Item, <hi>That it is not Lawful for</hi> Chriſtians <hi>forany Cauſe in any Caſe,</hi>
+                     <note place="margin">
+                        <hi>Fox</hi> Mon. 1 vol. fol. 623. K. R. 2.</note> 
+                     <hi>to</hi> Swear <hi>by the Creator, neither by the Creature.</hi>
+                  </q>
+               </p>
+               <p>
+                  <hi>His Anſwer.</hi>
+               </p>
+               <q>
+                  <p>As concerning <hi>Oaths,</hi> I believe and obey the Doctrine of Al<g ref="char:EOLhyphen"/>mighty God,<note place="margin">pag. 653.</note> and my Ma<g ref="char:EOLhyphen"/>ſter Jeſus Chriſt, which teaches, that
+<pb n="24" facs="tcp:64179:12"/>Chriſtian-Men in Affirmation of a Truth, ſhould paſs the Righteouſ<g ref="char:EOLhyphen"/>neſs of the <hi>Scribes</hi> and <hi>Phariſees</hi> of the Old Teſtament, or elſe he excludes them from the Kingdom of Heaven; for he ſaith, <hi>Unleſs your Righteouſneſs exceed the Righteouſneſs of the</hi> Scribes <hi>and</hi> Phariſees, <hi>ye cannot enter into the Kingdom of Heaven.</hi> And as concer<g ref="char:EOLhyphen"/>ning Oaths, he ſaith, <hi>It hath been ſaid to them of Old Time, Thou ſhalt not</hi> For<g ref="char:EOLhyphen"/>ſwear thy ſelf; <hi>but ſhalt perform unto the Lord thoſe things which thou voweſt: But I ſay unto you,</hi> Thou ſhalt not <hi>Swear</hi> at all; <hi>neither by the Heaven, nor yet by the Earth, &amp;c, But let your Communica<g ref="char:EOLhyphen"/>tion be Yea, Yea, and Nay, Nay; for whatſo<g ref="char:EOLhyphen"/>ever ſhall be more then this proceeds of Evil.</hi> Therefore as the Perfection of the Ancient Men of the old Teſta<g ref="char:EOLhyphen"/>ment was, <hi>Not to forſwear themſelves;</hi> ſo the Perfection of Chriſtian-Men is, <hi>Not to forſwear themſelves;</hi> ſo the Perfection of Chriſtian-Men is, <hi>Not to Swear at all,</hi> becauſe they are ſo commanded of Chriſt, whoſe Com<g ref="char:EOLhyphen"/>mandment
+<pb n="25" facs="tcp:64179:12"/>muſt in no caſe be broken, although the City (or Church) of <hi>Rome</hi> is contrary to this Doctrine of <hi>Chriſt,</hi> even as in many things ſhe is found contrary to her ſelf.</p>
+               </q>
+               <p>And Chriſt ſaith in the Goſpel-times to the Church,<note place="margin">Mat. 28.17.</note> 
+                  <hi>That by the Mouth of two or three Witneſſes every Word may be eſtabliſhed:</hi> and this Chriſt ſpake in matter of dif<g ref="char:EOLhyphen"/>ferences, that might happen among <hi>Chriſtians;</hi> but ſaid nothing of an Oath, for <hi>Oaths</hi> he forbad before.</p>
+               <p>And we cannot give forth a better Form of Words to teſtifie the Truth, then that which Chriſt our Saviour hath laid down, which is, <hi>Let our yea be yea, and nay nay,</hi> which the Apo<g ref="char:EOLhyphen"/>ſtles, Fathers and Martyrs preached, practiced and ſuffered for; and if we are called to bear witneſs, or any Of<g ref="char:EOLhyphen"/>fice or Service to and for the King or our Country, and teſtifie our Truth or Faithfulneſs to one or both,
+<pb n="26" facs="tcp:64179:13"/>in which Caſes <hi>Oaths</hi> are uſually requi<g ref="char:EOLhyphen"/>red and impoſed; we deſire and re<g ref="char:EOLhyphen"/>queſt, that you would be pleaſed to enact or provide that inſtead &amp; Place thereof (as the Caſes may require) our <hi>yea</hi> and our <hi>nay</hi> may be accepted and taken; and if we break our <hi>yea</hi> or our <hi>nay</hi> which is Chriſts ſolemn Form of ſound Words, and which is his Goſpel-Command, which we ſtand to and for; then let us ſuffer the ſame Penalty s they that can ſwear and break their <hi>Oaths;</hi> for Chriſt ended all the true and ſolemn <hi>Oaths</hi> of the Law among the <hi>Jews,</hi> and denyed them, and ſets up <hi>yea yea,</hi> and <hi>nay</hi> and <hi>nay,</hi> inſtead of <hi>Oaths,</hi> and above them, which (as ſaid before) we ſtand to &amp; for, who are a peaceable People, and have never forfeited our Liberty; and we ow and deſire nothing but Good-Will to the King and his Subjects and all People, and deſires his and their Good and Everlaſting Proſperity.</p>
+            </div>
+         </div>
+         <div type="document">
+            <pb n="27" facs="tcp:64179:13"/>
+            <head>A Copy of an Order given forth by Autho<g ref="char:EOLhyphen"/>rity in <hi>Middlebrough,</hi> in which may be ſeen their Moderation to Tender Con<g ref="char:EOLhyphen"/>ſciences in the Caſe of Refuſing to <hi>Swear.</hi>
+            </head>
+            <p>VVHereas there hath been an Addreſs preſented unto his Excellency, in behalf of certain of the Inhabitants of the City of <hi>Middlebrough,</hi> wherein Complaint was made of the Magiſtrates of the ſaid City, who not long ſince cauſed the Shops of ſome of the ſaid Inhabitants to be ſhut up, and conſequently hath forbidden them Trading, though it be the only means to maintain their Families by; and this has been the Cauſe (to wit) <hi>Their Refuſing the taking the accuſtomed Oaths,</hi> as others have done: Yet nevertheleſs it appears, that for certain Years paſt they have paid all <hi>Taxes, Contributions</hi> and <hi>Cuſtoms</hi> be<g ref="char:EOLhyphen"/>longing to the City, even Equal with other Citizens and Inhabitants of the ſaid City (though they had never taken the ſaid <hi>Oath</hi>) and that willingly; and therefore ought they now to have their Liberty, without being mo<g ref="char:EOLhyphen"/>leſted
+<pb n="28" facs="tcp:64179:14"/>in this Particular, ſeeing they deſire no<g ref="char:EOLhyphen"/>thing elſe, then to live in the Enjoyments of the Liberty of their Conſciences; in order to which this preſent War with the King of <hi>Spain</hi> was raiſed by his Subjects, and which now by the Help of God is come ſo far, that the a<g ref="char:EOLhyphen"/>foreſaid <hi>Liberty of Conſcience</hi> is obtained; and therefore it would be an Evil Thing to take it away from theſe people, who through their <hi>Paying of Taxes</hi> and <hi>Contributions,</hi> and <hi>Bearing of other Burdens</hi> (beſides the great Hazard of their Lives and Liberties) hath helped to obtain it. And it appears that theſe People have declared. <hi>That they are willing to be Ruled according to the Ordinances of the City;</hi> yet nevertheleſs, the Magiſtrates do and have ſtriven with them about the <hi>Oath,</hi> which hath not only extended to the expel<g ref="char:EOLhyphen"/>ling them out of the City, but conſequently to the forcing out of a Numberleſs Company of others in <hi>Holland</hi> &amp; <hi>Zealand,</hi> with their Wives and Children, to their utter Ruin; and this would not tend to any Man's Profit, but on the contrary; it would be a great apparent Hindrance to theſe Lands, becauſe Trading thereby over all Nations would greatly De<g ref="char:EOLhyphen"/>creaſe.</p>
+            <pb n="29" facs="tcp:64179:14"/>
+            <p>And foraſmuch as theſe People do profer, <hi>That their</hi> Yea <hi>ſhall ſtand inſtead of an</hi> Oath, <hi>and the Tranſgreſſion thereof to be puniſhed as Perjured Perſons;</hi> which thing his Excellency having taken into Conſideration, doth there<g ref="char:EOLhyphen"/>fore with the Advice of the Governour and Council of <hi>Zealand</hi> Ordain and Confirm, and by theſe Preſents be it Ordained and Confirmed, That the People's <hi>Yea</hi> aforeſaid ſhall ſtand inſtead of an <hi>Oath</hi> before the Ma<g ref="char:EOLhyphen"/>giſtrates of the aforeſaid City; and that the Tranſgreſſors of the ſame ſhall be puniſhed, as Forſwearers and Perjured Perſons. More<g ref="char:EOLhyphen"/>over, his Excellency doth Charge and Com<g ref="char:EOLhyphen"/>mand the Magiſtrates of <hi>Middlebrough,</hi> with all others whom it doth concern, for the fu<g ref="char:EOLhyphen"/>ture, Not to burden theſe People aforeſaid any further with the <hi>Oath,</hi> but that they ſhall open their Shops, and follow their Trading, as formerly they have done.</p>
+            <closer>
+               <dateline>This was given forth in his Excellency's Name, and under his Seal, in the City of <hi>Middlebrough</hi> in <hi>Zea<g ref="char:EOLhyphen"/>land,</hi> 
+                  <date>the 26th of <hi>Ianuary,</hi> 1577.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
